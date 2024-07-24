@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cayetano! <br/><a href="https://github.com/GISLynx">Graduated in Geography and GIS</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Linkedin</a>, 
+<h1>Hi, I'm Cayetano! <br/><a href="https://github.com/GISLynx">Graduated in Geography and GIS</a>, <ahttps://www.linkedin.com/in/cayetano-gonzalez-miranda-a2bab1177//">Linkedin</a>, 
 
 <h2>👨‍💻 GIS Projects:</h2>
 
