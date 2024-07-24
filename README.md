@@ -36,7 +36,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+[linkedin]: https://www.linkedin.com/in/cayetano-gonzalez-miranda-a2bab1177
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
