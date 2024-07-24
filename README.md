@@ -15,4 +15,4 @@
 
 
 
-[linkedin]: (www.linkedin.com/in/cayetano-gonzalez-miranda-a2bab1177)
+[linkedin]: (www.linkedin.com/in/cayetano-gonzalez-miranda-a2bab1177/)
