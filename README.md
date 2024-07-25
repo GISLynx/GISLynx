@@ -5,7 +5,7 @@
 - <b>Forest Fire Risk</b>
   - [Independent Study](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- <b>Google HEarth Engine</b>
+- <b>Google Earth Engine</b>
   - [Python algorythm to get NDVI)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
