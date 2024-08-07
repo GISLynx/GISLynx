@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cayetano! <br/><a href="https://github.com/GISLynx/GISLynx/edit/main/README.md">Graduate in Geography and GIS</a>, 
+<h1>Hi, I'm Cayetano! <br/><a href="https://github.com/GISLynx/GISLynx/edit/main/README.md">Graduated in Geography and GIS</a> 
 
 <h2>👨‍💻 GIS projects:</h2>
 
