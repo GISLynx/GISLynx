@@ -3,7 +3,7 @@
 <h2>👨‍💻 GIS projects:</h2>
 
 - <b>Forest Fire Risk</b>
-  - [Independent Study](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Independent Study](forestfire.md)
 
 - <b>Google Earth Engine</b>
   - [Python algorythm to get NDVI)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
