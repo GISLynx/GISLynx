@@ -6,7 +6,7 @@
   - [Independent Study](https://github.com/GISLynx/Forrest-Fire-Hazard)
 
 - <b>Google Earth Engine</b>
-  - [Python algorythm to get NDVI)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Python algorythm to get NDVI)](https://github.com/GISLynx/NDVI)
 
 
 
