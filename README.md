@@ -6,7 +6,7 @@
   - [Independent Study](https://github.com/GISLynx/Forrest-Fire-Hazard)
 
 - <b>Google Earth Engine</b>
-  - [Algorythm to get NDVI)](https://github.com/GISLynx/NDVI)
+  - [Algorythm to get NDVI](https://github.com/GISLynx/NDVI)
 
 
 
