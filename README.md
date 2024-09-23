@@ -8,7 +8,8 @@
 - <b>Google Earth Engine</b>
   - [Algorithm to get NDVI](https://github.com/GISLynx/NDVI)
 
-
+- <b>Education/Wealth in Fairfax County, Virginia</b>
+  - [Farfax County Project](https://github.com/GISLynx/Fairfax)
 
 <h2> 🤳 Connect with me on Linkedin:</h2>
 
