@@ -17,7 +17,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/cayetano-gonzalezgisanalyst
+[linkedin]: www.linkedin.com/in/cayetano-gonzalezgisanalyst 
 
 
 
