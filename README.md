@@ -13,11 +13,6 @@
 
 <h2> 🤳 Connect with me on Linkedin:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: www.linkedin.com/in/cayetano-gonzalezgisanalyst 
-
-
-
+<a href="www.linkedin.com/in/cayetano-gonzalezgisanalyst">
+  [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
+</a>
