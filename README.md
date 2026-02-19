@@ -13,4 +13,4 @@
 
 <h2> 🤳 Connect with me on Linkedin:</h2>
 
-<a href="https://www.linkedin.com/in/cayetano-gonzalezgisanalyst" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/cayetano-gonzalezgisanalyst/" target="_blank">LinkedIn</a>
